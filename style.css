@@ -1,0 +1,110 @@
+#box {
+    margin-top: 2%;
+    padding: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 700px;
+    height: 250px;
+    background: yellow;  
+}
+
+#box1 {
+    margin-top: 2%;
+    padding: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 700px;
+    height: 450px;
+    background: yellow;  
+}
+
+#box2 {
+    margin-top: 2%;
+    padding: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 700px;
+    height: 65px;
+    background: yellow;  
+}
+
+#right {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: green;
+}
+
+#left {
+    width: 50%;
+    height: 100%;
+    background: red;
+    float: left;
+}
+
+.all {
+    float: left;
+    width: 33%;
+    height: 100%;
+}
+
+#left1 {
+    background: green;
+}
+
+#center {
+    background: white;
+}
+
+#right1 {
+    background: red;
+}
+
+#top {
+    background: green;
+    width: 30%;
+    height: 30%;
+    text-align: left;
+}
+
+.all1 {
+    width: 30%;
+    height: 30%;
+}
+
+#center1 {
+    background: white;
+    margin-left: 30%;
+}
+
+#bottom {
+    margin-left: 60%;
+    background: red;
+}
+
+#left2 {
+    background: green;
+}
+
+#center2 {
+    background: yellow;
+}
+
+#right2 {
+    background: red;
+}
+
+#button {
+    margin-right: 2%;
+    padding: 2%;
+    float: left;
+    color: rgb(255, 255, 255);
+    background-color: gray;
+    cursor: pointer;
+}
+
+#button:hover {
+    text-decoration: underline;
+    color: black;
+    background-color: rgb(172, 172, 172);
+}
